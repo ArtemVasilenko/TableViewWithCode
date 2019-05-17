@@ -1,20 +1,15 @@
-//
-//  ViewController.swift
-//  TableViewWithCode
-//
-//  Created by Артем on 5/17/19.
-//  Copyright © 2019 Артем. All rights reserved.
-//
 
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var myTableView = UITableView()
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
-
+    
+    
 }
 
